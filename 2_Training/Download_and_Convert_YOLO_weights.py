@@ -4,7 +4,7 @@ import time
 import sys
 import argparse
 import requests
-import progressbar
+#import progressbar
 
 FLAGS = None
 
